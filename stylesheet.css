@@ -1,6 +1,7 @@
 
 body {
-    background-color: white;
+    background-color: #3e3d32;
+    color: white;
     font: sans-serif;
 	margin: 20px 20px;
 }
@@ -9,6 +10,8 @@ ul {
 	list-style-type: none;
 }
 
-a {
+
+a, a:visited {
+	color: white;
 	text-decoration: none;
 }
